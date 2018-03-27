@@ -9,6 +9,7 @@ As per the license agreement, this mod is being open sourced in the hope that th
 
 Additionally, the following items are not my own work and subject to their owner's license:
 
--Chain sounds are editted from freesounds.org 'chains' by mishaven.
--Beehive sounds are editted from freesounds.org 'honey bees' by Tito Lahaye.
+
+1) Chain sounds are editted from freesounds.org 'chains' by mishaven.
+2) Beehive sounds are editted from freesounds.org 'honey bees' by Tito Lahaye.
 
