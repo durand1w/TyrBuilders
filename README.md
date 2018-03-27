@@ -1,8 +1,6 @@
 # TyrBuilders
 A Minecraft Forge Mod that provides many new blocks in the spirit of the core game.
 
-This mod was originally created as a supplemental mod for players of the private Ambeth Tyr minecraft server.  The content was created in the spirit of Mojang's Minecraft, reusing and modifying existing textures whenever possible.  
-
 
 As per the license agreement, this mod is being open sourced in the hope that this content, in some form, will continue to benefit and inspire the developers and players of Minecraft.  You are welcome to branch this code, copy, modify and reuse all parts of it including code, block models and textures, so long as you abide by Mojang's license agreements.  You should not however, represent the totatality of this mod as your own personal work.  
 
