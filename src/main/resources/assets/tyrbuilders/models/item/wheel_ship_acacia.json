@@ -1,0 +1,35 @@
+{
+    "parent": "tyrbuilders:block/wheel_ship_acacia",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 29, 0 ],
+            "translation": [ -0.75, 0.75, 0],
+            "scale":[ 0.68, 0.68, 0.68 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ -105, 325, -180 ],
+            "translation": [ -0.50, 1.00, 0],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 286, 0 ],
+            "translation": [ 4.0, 0.5, 0 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 87, 265, 360 ],
+            "translation": [ 2.50, 0.75, 0 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        }
+    }
+}
