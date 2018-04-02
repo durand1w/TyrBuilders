@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:crate_spruce" },
+        "facing=west":  { "model": "tyrbuilders:crate_spruce", "y": 90 },
+        "facing=north": { "model": "tyrbuilders:crate_spruce", "y": 180 },
+        "facing=east":  { "model": "tyrbuilders:crate_spruce", "y": 270 }
+    }
+}

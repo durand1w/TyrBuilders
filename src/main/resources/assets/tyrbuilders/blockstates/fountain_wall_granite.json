@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "facing=north,level=0": { "model": "tyrbuilders:fountain_wall_granite_empty", "y": 90 },
+        "facing=east,level=0":  { "model": "tyrbuilders:fountain_wall_granite_empty", "y": 180 },
+        "facing=south,level=0": { "model": "tyrbuilders:fountain_wall_granite_empty", "y": 270 },
+        "facing=west,level=0":  { "model": "tyrbuilders:fountain_wall_granite_empty"},
+        "facing=north,level=1": { "model": "tyrbuilders:fountain_wall_granite", "y": 90 },
+        "facing=east,level=1":  { "model": "tyrbuilders:fountain_wall_granite", "y": 180 },
+        "facing=south,level=1": { "model": "tyrbuilders:fountain_wall_granite", "y": 270 },
+        "facing=west,level=1":  { "model": "tyrbuilders:fountain_wall_granite"}              
+    }
+}
