@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BAB"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:dye",
+        "data": 15
+      },
+    "B":
+      {
+        "item": "minecraft:rotten_flesh",
+        "data": 0
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:fertilizer",
+    "data": 0
+  }
+}

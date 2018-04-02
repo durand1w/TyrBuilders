@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAC",
+    " B "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:stone_pedestal"
+      },
+    "B":
+      {
+        "item": "minecraft:stone_slab",
+	"data": 0
+      },
+    "C":
+      {
+        "item": "minecraft:iron_ingot"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:fountain_square_stone"
+  }
+}

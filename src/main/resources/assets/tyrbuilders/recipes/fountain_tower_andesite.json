@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CBC",
+    " A "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:fountain_square_andesite"
+      },
+    "B":
+      {
+        "item": "tyrbuilders:stone_andesite_smooth_slab",
+	"data": 0
+      },
+    "C":
+      {
+        "item": "minecraft:iron_ingot"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:fountain_tower_andesite"
+  }
+}

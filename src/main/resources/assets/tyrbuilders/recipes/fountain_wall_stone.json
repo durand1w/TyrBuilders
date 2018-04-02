@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:fountain_tower_stone",
+	"data": 0
+      },
+    "B":
+      {
+        "item": "minecraft:stone_slab",
+	"data": 0
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:fountain_wall_stone"
+  }
+}

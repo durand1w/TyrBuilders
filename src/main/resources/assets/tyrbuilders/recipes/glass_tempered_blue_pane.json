@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:glass_tempered_blue"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:glass_tempered_pane_blue", "count":16,
+    "data": 0
+  }
+}

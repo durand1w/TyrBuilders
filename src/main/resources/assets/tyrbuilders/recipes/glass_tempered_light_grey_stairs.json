@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:glass_tempered_light_grey"
+      }
+
+  },
+  "result": {
+    "item": "tyrbuilders:glass_tempered_light_grey_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "B B",
+    "ABA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 5
+      },
+    "B":
+      {
+        "item": "minecraft:stick"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:crate_small_dark_oak"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:glass_tempered"
+      },
+    "B":
+      {
+        "item": "minecraft:dye",
+        "data": 1
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:glass_tempered_red", "count":8,
+    "data": 0
+  }
+}
