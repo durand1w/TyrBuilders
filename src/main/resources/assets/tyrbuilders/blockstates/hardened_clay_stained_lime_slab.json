@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "tyrbuilders:hardened_clay_stained_lime_slab_lower" },
+        "half=top,variant=default": { "model": "tyrbuilders:hardened_clay_stained_lime_slab_upper" }
+    }
+}
