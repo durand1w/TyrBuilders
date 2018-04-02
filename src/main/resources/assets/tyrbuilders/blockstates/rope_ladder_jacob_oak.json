@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:rope_ladder_jacob_oak" },
+        "facing=west":  { "model": "tyrbuilders:rope_ladder_jacob_oak", "y": 90 },
+        "facing=north": { "model": "tyrbuilders:rope_ladder_jacob_oak", "y": 180 },
+        "facing=east":  { "model": "tyrbuilders:rope_ladder_jacob_oak", "y": 270 }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:rope_climbers" },
+        "facing=west":  { "model": "tyrbuilders:rope_climbers", "y": 90 },
+        "facing=north": { "model": "tyrbuilders:rope_climbers", "y": 180 },
+        "facing=east":  { "model": "tyrbuilders:rope_climbers", "y": 270 },
+        "facing=up":    { "model": "tyrbuilders:rope_climbers_center" },
+        "facing=down":    { "model": "tyrbuilders:rope_climbers_center" }
+    }
+}

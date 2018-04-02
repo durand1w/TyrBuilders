@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:panel_acacia" },
+        "facing=west":  { "model": "tyrbuilders:panel_acacia", "y": 90 },
+        "facing=north": { "model": "tyrbuilders:panel_acacia", "y": 180 },
+        "facing=east":  { "model": "tyrbuilders:panel_acacia", "y": 270 }
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:multi-layer",
+    "custom": {
+      "base": "tyrbuilders:jar_honey#base",
+      "Solid": "tyrbuilders:jar_honey#base",
+      "Translucent": "tyrbuilders:jar_honey#window"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": { },
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90}
+    },
+    "base": [{
+      "model": "tyrbuilders:jar_honey_base"
+    }],
+    "window": [{
+      "model": "tyrbuilders:jar_honey_glass"
+    }]
+  }
+}

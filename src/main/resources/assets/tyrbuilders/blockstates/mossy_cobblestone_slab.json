@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "tyrbuilders:mossy_cobblestone_slab_lower" },
+        "half=top,variant=default": { "model": "tyrbuilders:mossy_cobblestone_slab_upper" }
+    }
+}

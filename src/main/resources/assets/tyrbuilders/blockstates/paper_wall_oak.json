@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:paper_wall_oak" },
+        "facing=west":  { "model": "tyrbuilders:paper_wall_oak", "y": 90 },
+        "facing=north": { "model": "tyrbuilders:paper_wall_oak", "y": 180 },
+        "facing=east":  { "model": "tyrbuilders:paper_wall_oak", "y": 270 }
+    }
+}

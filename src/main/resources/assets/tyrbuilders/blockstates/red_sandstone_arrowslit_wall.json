@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=west": { "model": "tyrbuilders:red_sandstone_arrowslit_wall" },
+        "facing=east": { "model": "tyrbuilders:red_sandstone_arrowslit_wall", "y": 180 },
+        "facing=north": { "model": "tyrbuilders:red_sandstone_arrowslit_wall", "y": 90 },
+        "facing=south": { "model": "tyrbuilders:red_sandstone_arrowslit_wall", "y": 270 }
+    }
+}

@@ -1,0 +1,28 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "forge:multi-layer",
+    "custom": {
+      "base": "tyrbuilders:lantern_green#base",
+      "Solid": "tyrbuilders:lantern_green#base",
+      "Translucent": "tyrbuilders:lantern_green#window"
+    },
+    "transform": "forge:default-block"
+  },
+  "variants": {
+    "normal": [{}],
+    "inventory": [{}],
+    "facing": {
+      "north": { },
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90}
+    },
+    "base": [{
+      "model": "tyrbuilders:lantern_green_base"
+    }],
+    "window": [{
+      "model": "tyrbuilders:lantern_green_glass"
+    }]
+  }
+}
