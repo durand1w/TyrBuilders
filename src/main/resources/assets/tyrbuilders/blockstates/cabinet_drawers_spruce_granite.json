@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:cabinet_drawers_spruce_granite" },
+        "facing=west":  { "model": "tyrbuilders:cabinet_drawers_spruce_granite", "y": 90 },
+        "facing=north": { "model": "tyrbuilders:cabinet_drawers_spruce_granite", "y": 180 },
+        "facing=east":  { "model": "tyrbuilders:cabinet_drawers_spruce_granite", "y": 270 }
+    }
+}

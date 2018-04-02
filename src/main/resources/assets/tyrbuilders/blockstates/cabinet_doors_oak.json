@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:cabinet_doors_oak" },
+        "facing=west":  { "model": "tyrbuilders:cabinet_doors_oak", "y": 90 },
+        "facing=north": { "model": "tyrbuilders:cabinet_doors_oak", "y": 180 },
+        "facing=east":  { "model": "tyrbuilders:cabinet_doors_oak", "y": 270 }
+    }
+}

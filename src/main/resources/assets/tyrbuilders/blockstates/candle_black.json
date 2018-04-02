@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrbuilders:candle_black"},
+        "facing=east":  { "model": "tyrbuilders:candle_black", "y": 90 },
+        "facing=south": { "model": "tyrbuilders:candle_black", "y": 180 },
+        "facing=west":  { "model": "tyrbuilders:candle_black", "y": 270 }
+    }
+}

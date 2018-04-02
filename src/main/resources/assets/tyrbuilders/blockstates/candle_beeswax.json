@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrbuilders:candle_beeswax"},
+        "facing=east":  { "model": "tyrbuilders:candle_beeswax", "y": 90 },
+        "facing=south": { "model": "tyrbuilders:candle_beeswax", "y": 180 },
+        "facing=west":  { "model": "tyrbuilders:candle_beeswax", "y": 270 }
+    }
+}

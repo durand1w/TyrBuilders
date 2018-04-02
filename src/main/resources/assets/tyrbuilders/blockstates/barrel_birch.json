@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "facing=up":    { "model": "tyrbuilders:barrel_birch" },
+        "facing=down":  { "model": "tyrbuilders:barrel_birch" },
+        "facing=east":  { "model": "tyrbuilders:barrel_birch", "x": 90, "y": 90 },
+        "facing=west":  { "model": "tyrbuilders:barrel_birch", "x": 90, "y": 270 },
+        "facing=south": { "model": "tyrbuilders:barrel_birch", "x": 90, "y": 180 },
+        "facing=north": { "model": "tyrbuilders:barrel_birch", "x": 90 }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "facing=north,level=0,up=false": { "model": "tyrbuilders:bucket_well_jungle_empty"},
+        "facing=east,level=0,up=false":  { "model": "tyrbuilders:bucket_well_jungle_empty", "y": 90 },
+        "facing=south,level=0,up=false": { "model": "tyrbuilders:bucket_well_jungle_empty", "y": 180 },
+        "facing=west,level=0,up=false":  { "model": "tyrbuilders:bucket_well_jungle_empty", "y": 270 },
+        "facing=north,level=1,up=false": { "model": "tyrbuilders:bucket_well_jungle"},
+        "facing=east,level=1,up=false":  { "model": "tyrbuilders:bucket_well_jungle", "y": 90 },
+        "facing=south,level=1,up=false": { "model": "tyrbuilders:bucket_well_jungle", "y": 180 },
+        "facing=west,level=1,up=false":  { "model": "tyrbuilders:bucket_well_jungle", "y": 270 },
+        "facing=north,level=0,up=true": { "model": "tyrbuilders:bucket_well_jungle_empty_hang"},
+        "facing=east,level=0,up=true":  { "model": "tyrbuilders:bucket_well_jungle_empty_hang", "y": 90 },
+        "facing=south,level=0,up=true": { "model": "tyrbuilders:bucket_well_jungle_empty_hang", "y": 180 },
+        "facing=west,level=0,up=true":  { "model": "tyrbuilders:bucket_well_jungle_empty_hang", "y": 270 },
+        "facing=north,level=1,up=true": { "model": "tyrbuilders:bucket_well_jungle_hang"},
+        "facing=east,level=1,up=true":  { "model": "tyrbuilders:bucket_well_jungle_hang", "y": 90 },
+        "facing=south,level=1,up=true": { "model": "tyrbuilders:bucket_well_jungle_hang", "y": 180 },
+        "facing=west,level=1,up=true":  { "model": "tyrbuilders:bucket_well_jungle_hang", "y": 270 }             
+    }
+}

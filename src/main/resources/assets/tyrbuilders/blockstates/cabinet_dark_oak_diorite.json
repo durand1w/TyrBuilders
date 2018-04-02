@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:cabinet_dark_oak_diorite" },
+        "facing=west":  { "model": "tyrbuilders:cabinet_dark_oak_diorite", "y": 90 },
+        "facing=north": { "model": "tyrbuilders:cabinet_dark_oak_diorite", "y": 180 },
+        "facing=east":  { "model": "tyrbuilders:cabinet_dark_oak_diorite", "y": 270 }
+    }
+}
