@@ -1,0 +1,7 @@
+{
+    "parent": "tyrbuilders:block/cover_top",
+    "textures": {
+        "particle": "blocks/iron_block",
+        "cover": "tyrbuilders:blocks/iron_grate"
+    }
+}

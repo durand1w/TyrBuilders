@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "tyrbuilders:blocks/red_sandstone_lines_top",
+        "side": "tyrbuilders:blocks/red_sandstone_lines"
+    }
+}
+
+

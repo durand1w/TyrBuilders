@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_post",
+    "textures": {
+        "edge": "tyrbuilders:blocks/empty_space",
+        "pane": "tyrbuilders:blocks/iron_bars_rolling"
+    }
+}
