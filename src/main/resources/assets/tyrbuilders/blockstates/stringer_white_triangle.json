@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:stringer_white_triangle", "y": 90  },
+        "facing=west":  { "model": "tyrbuilders:stringer_white_triangle" },
+        "facing=north": { "model": "tyrbuilders:stringer_white_triangle", "y": 90 },
+        "facing=east":  { "model": "tyrbuilders:stringer_white_triangle" }
+    }
+}

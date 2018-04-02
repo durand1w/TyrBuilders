@@ -1,0 +1,20 @@
+{
+    "multipart": [
+        {   "apply": { "model": "tyrbuilders:stringer_spacer_post" }},
+        {   "down": { "down": true },
+            "apply": { "model": "tyrbuilders:stringer_spacer_down" }
+        },
+        {   "when": { "north": true },
+            "apply": { "model": "tyrbuilders:stringer_spacer_ne" }
+        },
+        {   "when": { "east": true },
+            "apply": { "model": "tyrbuilders:stringer_spacer_ne", "y": 90 }
+        },
+        {   "when": { "south": true },
+            "apply": { "model": "tyrbuilders:stringer_spacer_se" }
+        },
+        {   "when": { "west": true },
+            "apply": { "model": "tyrbuilders:stringer_spacer_se", "y": 90 }
+        }
+    ]
+}

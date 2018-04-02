@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "tyrbuilders:torch_tiki"},
+        "facing=east":  { "model": "tyrbuilders:torch_tiki", "y": 90 },
+        "facing=south": { "model": "tyrbuilders:torch_tiki", "y": 180 },
+        "facing=west":  { "model": "tyrbuilders:torch_tiki", "y": 270 }
+    }
+}

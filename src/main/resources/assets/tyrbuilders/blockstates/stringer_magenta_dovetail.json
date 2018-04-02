@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:stringer_magenta_dovetail", "y": 90  },
+        "facing=west":  { "model": "tyrbuilders:stringer_magenta_dovetail" },
+        "facing=north": { "model": "tyrbuilders:stringer_magenta_dovetail", "y": 90 },
+        "facing=east":  { "model": "tyrbuilders:stringer_magenta_dovetail" }
+    }
+}

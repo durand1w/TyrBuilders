@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "tyrbuilders:sugar_cane_block_dry" },
+        "axis=z": { "model": "tyrbuilders:sugar_cane_block_dry", "x": 90 },
+        "axis=x": { "model": "tyrbuilders:sugar_cane_block_dry", "x": 90, "y": 90 }
+    }
+}

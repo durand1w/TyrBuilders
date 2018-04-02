@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "tyrbuilders:stonebrick_pillar" },
+        "axis=z": { "model": "tyrbuilders:stonebrick_pillar", "x": 90 },
+        "axis=x": { "model": "tyrbuilders:stonebrick_pillar", "x": 90, "y": 90 }
+    }
+}

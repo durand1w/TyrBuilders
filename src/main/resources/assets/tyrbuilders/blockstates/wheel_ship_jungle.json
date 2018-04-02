@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=south": { "model": "tyrbuilders:wheel_ship_jungle" },
+        "facing=west":  { "model": "tyrbuilders:wheel_ship_jungle", "y": 90 },
+        "facing=north": { "model": "tyrbuilders:wheel_ship_jungle", "y": 180 },
+        "facing=east":  { "model": "tyrbuilders:wheel_ship_jungle", "y": 270 }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "axis=y": { "model": "tyrbuilders:stone_granite_pillar" },
+        "axis=z": { "model": "tyrbuilders:stone_granite_pillar", "x": 90 },
+        "axis=x": { "model": "tyrbuilders:stone_granite_pillar", "x": 90, "y": 90 }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "tyrbuilders:wool_black_slab_lower" },
+        "half=top,variant=default": { "model": "tyrbuilders:wool_black_slab_upper" }
+    }
+}
