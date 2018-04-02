@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A",
+    "A"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 5
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:panel_dark_oak",
+    "count": 6
+  }
+}

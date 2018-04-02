@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:road_stone_stackingbond_diorite"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_stone_stackingbond_diorite_slab",
+    "count": 6
+  }
+}

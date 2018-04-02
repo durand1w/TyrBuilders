@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:road_dirt"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_dirt_slab",
+    "count": 6
+  }
+}

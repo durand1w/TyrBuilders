@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:dirt",
+	"data": 1
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_dirt",
+    "count": 3
+  }
+}

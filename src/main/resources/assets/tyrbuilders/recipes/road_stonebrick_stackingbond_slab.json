@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:road_stonebrick_stackingbond"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_stonebrick_stackingbond_slab",
+    "count": 6
+  }
+}

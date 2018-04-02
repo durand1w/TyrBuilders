@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA ",
+    " AA",
+    "AA "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:rope_climbers"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:rope_sturdy",
+    "count": 2
+  }
+}

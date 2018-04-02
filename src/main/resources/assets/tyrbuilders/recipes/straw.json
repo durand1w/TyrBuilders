@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:wheat",
+        "data": 0
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:straw",
+    "data": 0
+  }
+}

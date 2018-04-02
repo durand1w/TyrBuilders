@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:rope_sturdy"
+      },
+    "B":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 1
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:rope_ladder_jacob_spruce",
+    "count": 6
+  }
+}

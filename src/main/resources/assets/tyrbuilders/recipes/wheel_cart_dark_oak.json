@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CBC",
+    "BAB",
+    "CBC"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_ingot"
+      },
+    "B":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 5
+      },
+    "C":
+      {
+        "item": "minecraft:stick"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:wheel_cart_dark_oak"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A",
+    "A"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 3
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:panel_jungle",
+    "count": 6
+  }
+}

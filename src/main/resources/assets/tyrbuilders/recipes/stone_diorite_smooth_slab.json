@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stone",
+ 	"data": 4
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:stone_diorite_smooth_slab",
+    "data": 0,
+    "count": 6
+  }
+}

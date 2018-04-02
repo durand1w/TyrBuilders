@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BBB"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:brick_block"
+      },
+    "B":
+      {
+        "item": "minecraft:gravel"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_redbrick_basketweave",
+    "count": 3
+  }
+}

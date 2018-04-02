@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA",
+    "AA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stone",
+        "data": 4
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:stonebrick_diorite",
+    "data": 0,
+    "count": 4
+  }
+}

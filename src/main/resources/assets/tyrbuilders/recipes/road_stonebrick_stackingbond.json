@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BBB"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stonebrick",
+	"data": 0
+      },
+    "B":
+      {
+        "item": "minecraft:gravel"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_stonebrick_stackingbond",
+    "count": 3
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A",
+    "A"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stone",
+        "data": 2
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:stone_granite_pillar",
+    "data": 0,
+    "count": 3
+  }
+}

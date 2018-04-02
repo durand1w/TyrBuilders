@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    "BCB",
+    "DED"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_nugget"
+      },
+    "B":
+      {
+        "item": "minecraft:stick"
+      },
+    "C":
+      {
+        "item": "minecraft:string"
+      },
+    "D":
+      {
+        "item": "tyrbuilders:sugar_cane_block_dry"
+      },
+    "E":
+      {
+        "item": "tyrbuilders:sunflower_oil"
+      }
+
+  },
+  "result": {
+    "item": "tyrbuilders:torch_tiki",
+    "data": 0
+  }
+}

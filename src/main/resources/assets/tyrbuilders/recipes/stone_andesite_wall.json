@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stone",
+	"data": 5
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:stone_andesite_wall",
+    "count":6,
+    "data": 0
+  }
+}

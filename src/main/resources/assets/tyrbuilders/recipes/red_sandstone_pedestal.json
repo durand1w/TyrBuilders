@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:red_sandstone_wall"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:red_sandstone_pedestal",
+    "count": 2
+  }
+}

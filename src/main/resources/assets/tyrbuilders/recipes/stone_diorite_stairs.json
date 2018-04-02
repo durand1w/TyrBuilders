@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stone",
+        "data": 3
+      }
+
+  },
+  "result": {
+    "item": "tyrbuilders:stone_diorite_stairs",
+    "data": 0,
+    "count": 4
+  }
+}

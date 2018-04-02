@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:straw"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:straw_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    " B "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:seed_sunflower",
+        "data": 0
+      },
+    "B":
+      {
+        "item": "minecraft:potion",
+        "data": 0
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:sunflower_oil",
+    "data": 0
+  }
+}

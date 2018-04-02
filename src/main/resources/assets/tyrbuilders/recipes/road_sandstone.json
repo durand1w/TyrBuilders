@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BBB"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:sandstone",
+	"data": 0
+      },
+    "B":
+      {
+        "item": "minecraft:sand",
+	"data": 0
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_sandstone",
+    "count": 3
+  }
+}

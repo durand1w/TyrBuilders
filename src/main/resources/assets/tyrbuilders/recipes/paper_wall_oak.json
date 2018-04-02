@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BAB",
+    "ABA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:planks",
+        "data": 0
+      },
+    "B":
+      {
+        "item": "minecraft:paper"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:paper_wall_oak",
+    "count": 4
+  }
+}

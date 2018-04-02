@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:road_cobblestone"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_cobblestone_slab",
+    "count": 6
+  }
+}

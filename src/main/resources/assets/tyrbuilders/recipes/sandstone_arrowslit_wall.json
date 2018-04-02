@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    "A A"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stone_slab",
+	"data": 1
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:sandstone_arrowslit_wall",
+    "data": 0,
+    "count": 2
+  }
+}

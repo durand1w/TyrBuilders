@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:road_redbrick_basketweave"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_redbrick_basketweave_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "BBB"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stone_slab",
+	"data":0
+      },
+    "B":
+      {
+        "item": "minecraft:gravel"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:road_stone_stackingbond_stone",
+    "count": 3
+  }
+}

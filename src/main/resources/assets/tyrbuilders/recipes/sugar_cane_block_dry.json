@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:sugar_cane_block",
+        "data": 0
+      },
+    "B":
+      {
+        "item": "minecraft:water_bucket",
+        "data": 0
+      }
+
+  },
+  "result": {
+    "item": "tyrbuilders:sugar_cane_block_dry", "count":8,
+    "data": 0
+  }
+}

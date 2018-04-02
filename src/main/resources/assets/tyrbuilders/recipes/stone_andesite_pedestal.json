@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "A"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:stone_andesite_wall"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:stone_andesite_pedestal",
+    "count": 2
+  }
+}

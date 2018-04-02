@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ABA",
+    "ABA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:rope_sturdy"
+      },
+    "B":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 3
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:rope_ladder_jacob_jungle",
+    "count": 6
+  }
+}
