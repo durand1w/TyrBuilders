@@ -1,0 +1,35 @@
+{
+    "parent": "tyrbuilders:block/panel_birch",
+    "display": {
+        "gui": {
+            "rotation": [ -150, 151, 180 ],
+            "translation": [ 1.75, -2.0, 0],
+            "scale":[ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 111, 0 ],
+            "translation": [ 1.75, 4.25, 0],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 4.0, 0.5, 0 ],
+            "scale": [ 0.50, 0.50, 0.45 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 75, 273, 0 ],
+            "translation": [ -2.25, 0.5, 0 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        }
+    }
+}
