@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "tyrbuilders:blocks/glass_tempered_pink",
+        "top": "tyrbuilders:blocks/glass_tempered_pink",
+        "side": "tyrbuilders:blocks/glass_tempered_pink"
+    }
+}

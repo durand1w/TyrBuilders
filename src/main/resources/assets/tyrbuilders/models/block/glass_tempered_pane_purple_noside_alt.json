@@ -1,0 +1,6 @@
+{
+    "parent": "block/pane_noside_alt",
+    "textures": {
+        "pane": "tyrbuilders:blocks/glass_tempered_purple"
+    }
+}
