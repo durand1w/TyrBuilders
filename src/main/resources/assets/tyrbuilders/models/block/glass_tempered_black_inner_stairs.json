@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "tyrbuilders:blocks/glass_tempered_black",
+        "top": "tyrbuilders:blocks/glass_tempered_black",
+        "side": "tyrbuilders:blocks/glass_tempered_black"
+    }
+}
