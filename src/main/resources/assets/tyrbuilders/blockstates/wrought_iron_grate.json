@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "half=top": { "model": "tyrbuilders:wrought_iron_grate_top" },
+        "half=bottom": { "model": "tyrbuilders:wrought_iron_grate_bottom" }
+    }
+}
+
