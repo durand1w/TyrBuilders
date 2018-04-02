@@ -1,0 +1,14 @@
+{
+    "chains_rattle":
+    { 
+    "category": "blocks", 
+    "sounds": [ "tyrbuilders:chains_rattle" ],
+	"subtitle": "chains rattle"
+    },
+	"beehive":
+    { 
+    "category": "blocks", 
+    "sounds": [ "tyrbuilders:beehive" ],
+	"subtitle": "beehive"
+    }
+}
