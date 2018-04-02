@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "B B",
+    "ABA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_ingot"
+      },
+    "B":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 2
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:barrel_birch"
+  }
+}

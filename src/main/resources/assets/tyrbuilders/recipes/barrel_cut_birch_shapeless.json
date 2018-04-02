@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tyrbuilders:barrel_birch"
+        }
+    ],
+    "result": {
+        "item": "tyrbuilders:barrel_cut_birch",
+	    "count": 2
+    }
+}

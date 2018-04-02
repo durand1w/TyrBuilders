@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA ",
+    " AA",
+    "AA "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:gold_ingot"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:chain_heavy_gold",
+    "count": 6
+  }
+}

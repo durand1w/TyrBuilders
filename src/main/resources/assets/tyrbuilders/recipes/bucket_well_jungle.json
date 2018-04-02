@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "ABA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_ingot"
+      },
+    "B":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 3
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:bucket_well_jungle"
+  }
+}

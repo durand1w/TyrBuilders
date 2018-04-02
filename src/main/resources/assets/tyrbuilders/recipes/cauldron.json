@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    "A A",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_ingot"
+      }
+  },
+  "result": {
+    "item": "minecraft:cauldron"
+  }
+}

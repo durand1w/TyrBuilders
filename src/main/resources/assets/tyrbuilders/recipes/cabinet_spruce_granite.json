@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CDC",
+    "B E",
+    "CAC"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 1
+      },
+    "B":
+      {
+        "item": "minecraft:iron_ingot"
+      },
+    "C":
+      {
+        "item": "tyrbuilders:panel_spruce"
+      },
+    "D":
+      {
+        "item": "tyrbuilders:stone_granite_smooth_slab",
+	"data": 0
+      },
+    "E":
+      {
+        "item": "minecraft:iron_nugget"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:cabinet_spruce_granite"
+  }
+}

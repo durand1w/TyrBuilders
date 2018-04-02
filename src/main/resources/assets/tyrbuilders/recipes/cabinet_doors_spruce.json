@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CAC",
+    "B B",
+    "CAC"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 1
+      },
+    "B":
+      {
+        "item": "minecraft:iron_ingot"
+      },
+    "C":
+      {
+        "item": "tyrbuilders:panel_spruce"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:cabinet_doors_spruce"
+  }
+}

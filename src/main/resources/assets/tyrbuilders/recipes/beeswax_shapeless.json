@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tyrbuilders:honeycomb"
+        }
+    ],
+    "result": {
+        "item": "tyrbuilders:beeswax"
+    }
+}

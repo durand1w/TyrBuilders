@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AA ",
+    " AA",
+    "AA "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_nugget"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:chain_light_wrought_iron"
+  }
+}
