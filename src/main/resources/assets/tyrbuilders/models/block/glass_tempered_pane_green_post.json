@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_post",
+    "textures": {
+        "edge": "tyrbuilders:blocks/glass_tempered_pane_top_green",
+        "pane": "tyrbuilders:blocks/glass_tempered_green"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "tyrbuilders:blocks/glass_tempered_lime",
+        "top": "tyrbuilders:blocks/glass_tempered_lime",
+        "side": "tyrbuilders:blocks/glass_tempered_lime"
+    }
+}
