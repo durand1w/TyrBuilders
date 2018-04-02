@@ -1,0 +1,24 @@
+{
+    "parent": "block/block",
+    "__comment": "Model generated using MrCrayfish's Model Creator (http://mrcrayfish.com/modelcreator/)",
+    "textures": {
+        "particle": "tyrbuilders:blocks/sugar_cane_block_dry_side",
+        "0": "tyrbuilders:blocks/sugar_cane_block_dry_side",
+        "1": "tyrbuilders:blocks/sugar_cane_block_dry_top"
+    },
+    "elements": [
+        {
+            "name": "Bottom",
+            "from": [ 7.0, 0.0, 7.0 ], 
+            "to": [ 9.0, 16.0, 9.0 ], 
+            "faces": {
+                "north": { "texture": "#0", "uv": [ 1.0, 0.0, 3.0, 16.0 ], "rotation": 180 },
+                "east": { "texture": "#0", "uv": [ 1.0, 0.0, 3.0, 16.0 ], "rotation": 180 },
+                "south": { "texture": "#0", "uv": [ 1.0, 0.0, 3.0, 16.0 ], "rotation": 180 },
+                "west": { "texture": "#0", "uv": [ 1.0, 0.0, 3.0, 16.0 ], "rotation": 180 },
+                "up": { "texture": "#1", "uv": [ 1.0, 0.0, 3.0, 2.0 ], "rotation": 270 },
+                "down": { "texture": "#1", "uv": [ 1.0, 14.0, 3.0, 16.0 ], "cullface": "down" }
+            }
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blocks/stonebrick_carved",
+        "side": "tyrbuilders:blocks/stonebrick_lines"
+    }
+}
+
+

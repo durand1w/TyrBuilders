@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side_alt",
+    "textures": {
+        "edge": "tyrbuilders:blocks/stringer_spacer",
+        "pane": "tyrbuilders:blocks/stringer_spacer"
+    }
+}
