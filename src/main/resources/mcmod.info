@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tyrbuilder",
+  "name": "Tyr Builders",
+  "description": "Adds numerous blocks to Ambeth Tyr",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.ambethtyr.enjin.com",
+  "updateUrl": "",
+  "authorList": ["Durand1w"],
+  "credits": "Mojang, Forge,the Community and Basilt's pillar textures",
+  "logoFile": "assets/tyrbuilders/tyrbuilders.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
