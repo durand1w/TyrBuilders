@@ -1,6 +1,0 @@
-{
-    "variants": {
-        "half=bottom,variant=default": { "model": "tyrbuilders:glass_green_slab_lower" },
-        "half=top,variant=default": { "model": "tyrbuilders:glass_green_slab_upper" }
-    }
-}
