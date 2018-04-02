@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "tyrbuilders:blocks/stone_andesite_lines_top",
+        "side": "tyrbuilders:blocks/stone_andesite_lines"
+    }
+}

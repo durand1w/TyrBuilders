@@ -1,0 +1,9 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "blocks/sandstone_top",
+        "side": "tyrbuilders:blocks/sandstone_carved_lost_two"
+    }
+}
+
+
