@@ -1,0 +1,8 @@
+{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "tyrbuilders:blocks/hardened_clay_roof_tile_brown",
+        "top": "tyrbuilders:blocks/hardened_clay_roof_tile_brown",
+        "side": "tyrbuilders:blocks/hardened_clay_roof_tile_brown"
+    }
+}
