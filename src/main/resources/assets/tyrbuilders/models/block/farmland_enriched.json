@@ -1,0 +1,9 @@
+{
+    "parent": "block/farmland",
+    "textures": {
+        "particle": "tyrbuilders:blocks/farmland_enriched",
+        "dirt": "tyrbuilders:blocks/farmland_enriched",
+        "top": "tyrbuilders:blocks/farmland_enriched_top"
+    }
+}
+

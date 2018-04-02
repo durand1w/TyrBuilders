@@ -1,0 +1,8 @@
+{
+    "parent": "block/stairs",
+    "textures": {
+        "bottom": "tyrbuilders:blocks/copper_patina_roof_tile",
+        "top": "tyrbuilders:blocks/copper_patina_roof_tile",
+        "side": "tyrbuilders:blocks/copper_patina_roof_tile"
+    }
+}
