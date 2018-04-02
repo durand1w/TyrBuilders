@@ -2,16 +2,17 @@
 A Minecraft Forge Mod that provides many new blocks in the spirit of the core game.
 
 
-As per the license agreement, this mod is being open sourced in the hope that this content, in some form, will continue to benefit 
-and inspire the developers and players of Minecraft.  You are welcome to branch this code, copy, modify and reuse all parts of it 
-including code, block models and textures, so long as you abide by Mojang's license agreements.  You should not however, represent 
-the totatality of this mod as your own personal work.  
+As per the license agreement, this mod is being open sourced in the hope that this content, in some form, will continue to benefit and inspire the developers and players of Minecraft.  You are welcome to branch this code, copy, modify and reuse all parts of it including code, block models and textures, so long as you abide by Mojang's license agreements.  You should not however, represent the totatality of this mod as your own personal work.  
 
 
 -Sugar Cube
+
 -Charcoal Block
+
 -Sugar Cane and Dry Sugar Cane Block
+
 -Wrought Iron Nugget, Ingot, Block
+
 -Straw and Clean Straw Blocks, Stairs and Slabs
 -Fertilizer and Enriched Soil (Enriched Soil does not require Water, provides a use for bones and rotten flesh)
 -Beehive (drops from leaves), Honeycomb, Beeswax, Jar of Honey
