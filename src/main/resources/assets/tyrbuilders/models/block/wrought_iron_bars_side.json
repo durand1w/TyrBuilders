@@ -1,0 +1,7 @@
+{
+    "parent": "block/pane_side",
+    "textures": {
+        "edge": "tyrbuilders:blocks/wrought_iron_bars",
+        "pane": "tyrbuilders:blocks/wrought_iron_bars"
+    }
+}

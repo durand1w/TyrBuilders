@@ -1,0 +1,7 @@
+{
+    "parent": "tyrbuilders:block/cover_bottom",
+    "textures": {
+        "particle": "tyrbuilders:blocks/wrought_iron_grate",
+        "cover": "tyrbuilders:blocks/wrought_iron_grate"
+    }
+}
