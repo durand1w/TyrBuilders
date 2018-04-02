@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BAB",
+    "CB "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:gold_ingot"
+      },
+    "B":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 5
+      },
+    "C":
+      {
+        "item": "minecraft:dark_oak_fence"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:wheel_ship_dark_oak"
+  }
+}

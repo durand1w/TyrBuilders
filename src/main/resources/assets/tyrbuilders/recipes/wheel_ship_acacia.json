@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " B ",
+    "BAB",
+    "CB "
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:gold_ingot"
+      },
+    "B":
+      {
+        "item": "minecraft:wooden_slab",
+        "data": 4
+      },
+    "C":
+      {
+        "item": "minecraft:acacia_fence"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:wheel_ship_acacia"
+  }
+}

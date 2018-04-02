@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_ingot"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:wrought_iron_bars",
+    "count":16
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "B B",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_bars"
+      },
+    "B":
+      {
+        "item": "tyrbuilders:wrought_iron_nugget"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:wrought_iron_bars_pointed",
+    "count":4
+  }
+}

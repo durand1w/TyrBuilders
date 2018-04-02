@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_bars"
+      },
+    "B":
+      {
+        "item": "tyrbuilders:wrought_iron_nugget"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:wrought_iron_bars_banner",
+    "count":4
+  }
+}

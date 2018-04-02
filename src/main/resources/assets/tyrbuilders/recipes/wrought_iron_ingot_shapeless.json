@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tyrbuilders:wrought_iron_block"
+        }
+    ],
+    "result": {
+        "item": "tyrbuilders:wrought_iron_ingot",
+	    "count": 9
+    }
+}

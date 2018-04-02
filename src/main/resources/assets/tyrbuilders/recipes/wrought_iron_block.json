@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:wrought_iron_ingot",
+        "data": 0
+      }
+
+  },
+  "result": {
+    "item": "tyrbuilders:wrought_iron_block",
+    "data": 0
+  }
+}
