@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:mossy_cobblestone"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:mossy_cobblestone_slab",
+    "data": 0,
+    "count": 6
+  }
+}

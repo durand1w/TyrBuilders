@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "B B"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:iron_bars"
+      },
+    "B":
+      {
+        "item": "minecraft:iron_nugget"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:iron_bars_flower",
+    "count":4
+  }
+}

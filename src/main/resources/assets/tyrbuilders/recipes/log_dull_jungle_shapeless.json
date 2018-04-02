@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tyrbuilders:log_sharp_jungle"
+        },
+	{
+            "item": "tyrbuilders:log_sharp_jungle"
+        },
+	{
+            "item": "tyrbuilders:log_sharp_jungle"
+        },
+	{
+            "item": "minecraft:flint"
+        }
+    ],
+    "result": {
+        "item": "tyrbuilders:log_dull_jungle",
+	"count": 3
+    }
+}

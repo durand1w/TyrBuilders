@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ACB",
+    "AAC",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stained_hardened_clay",
+	"data": 10
+      },
+    "B":
+      {
+        "item": "minecraft:flint"
+      },
+    "C":
+      {
+        "item": "minecraft:dye",
+	"data": 5
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:hardened_clay_roof_tile_royal_purple_stairs",
+    "count": 4
+  }
+}

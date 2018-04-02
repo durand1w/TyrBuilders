@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:log2",
+	    "data": 1
+        },
+	{
+            "item": "minecraft:log2",
+	    "data": 1
+        },
+	{
+            "item": "minecraft:log2",
+	    "data": 1
+        },
+	{
+            "item": "minecraft:flint"
+        }
+    ],
+    "result": {
+        "item": "tyrbuilders:log_sharp_dark_oak",
+	"count": 3
+    }
+}

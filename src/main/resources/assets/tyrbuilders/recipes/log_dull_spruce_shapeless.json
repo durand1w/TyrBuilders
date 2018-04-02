@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tyrbuilders:log_sharp_spruce"
+        },
+	{
+            "item": "tyrbuilders:log_sharp_spruce"
+        },
+	{
+            "item": "tyrbuilders:log_sharp_spruce"
+        },
+	{
+            "item": "minecraft:flint"
+        }
+    ],
+    "result": {
+        "item": "tyrbuilders:log_dull_spruce",
+	"count": 3
+    }
+}

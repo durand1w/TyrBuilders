@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "B B",
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:iron_bars"
+      },
+    "B":
+      {
+        "item": "minecraft:iron_nugget"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:iron_bars_pointed",
+    "count":4
+  }
+}

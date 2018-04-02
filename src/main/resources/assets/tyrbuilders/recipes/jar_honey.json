@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "B B",
+    " BC"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:honeycomb",
+        "data": 0
+      },
+    "B":
+      {
+        "item": "minecraft:glass_pane",
+        "data": 0
+      },
+    "C":
+      {
+        "item": "minecraft:iron_ingot",
+        "data": 0
+      }
+
+  },
+  "result": {
+    "item": "tyrbuilders:jar_honey",
+    "data": 0
+  }
+}

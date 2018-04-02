@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "tyrbuilders:log_sharp_acacia"
+        },
+	{
+            "item": "tyrbuilders:log_sharp_acacia"
+        },
+	{
+            "item": "tyrbuilders:log_sharp_acacia"
+        },
+	{
+            "item": "minecraft:flint"
+        }
+    ],
+    "result": {
+        "item": "tyrbuilders:log_dull_acacia",
+	"count": 3
+    }
+}

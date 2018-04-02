@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BBB",
+    "ABA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:iron_ingot"
+      },
+    "B":
+      {
+        "item": "minecraft:iron_bars"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:iron_grate",
+    "count": 4
+  }
+}

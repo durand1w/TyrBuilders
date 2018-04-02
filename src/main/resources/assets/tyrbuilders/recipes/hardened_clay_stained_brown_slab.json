@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "minecraft:stained_hardened_clay",
+    	"data":12
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:hardened_clay_stained_brown_slab",
+    "data": 0,
+    "count": 6
+  }
+}

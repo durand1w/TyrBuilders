@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "DBD",
+    "CAC",
+    "DBD"
+  ],
+  "key": {
+    "A":
+      {
+        "item": "tyrbuilders:candle_cyan"
+      },
+    "B":
+      {
+        "item": "tyrbuilders:wrought_iron_ingot"
+      },
+    "C":
+      {
+        "item": "minecraft:stained_glass_pane",
+	"data": 9
+      },
+    "D":
+      {
+        "item": "tyrbuilders:wrought_iron_nugget"
+      }
+  },
+  "result": {
+    "item": "tyrbuilders:lantern_cyan"
+  }
+}
