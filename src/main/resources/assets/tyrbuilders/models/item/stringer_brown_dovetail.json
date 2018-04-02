@@ -1,0 +1,35 @@
+{
+    "parent": "tyrbuilders:block/stringer_brown_dovetail",
+    "display": {
+        "gui": {
+            "rotation": [ 30, 29, 0 ],
+            "translation": [ 0.75, -0.75, 0],
+            "scale":[ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0],
+            "scale":[ 0.5, 0.5, 0.5 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ -105, 69, -180 ],
+            "translation": [ -1.5, 3, -3.25],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 0.5, 0.5, 0.5 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 9, 265, 0 ],
+            "translation": [ -1, 0.5, 0 ],
+            "scale": [ 0.50, 0.50, 0.50 ]
+        }
+    }
+}
