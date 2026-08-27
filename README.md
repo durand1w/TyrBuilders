@@ -6,7 +6,7 @@ A Minecraft Forge Mod that provides many new blocks in the spirit of the core ga
 
 -Charcoal Block
 
--Sugar Cane and Dry Sugar Cane Block
+REDUNDANT-VANILLA BAMBOO-Sugar Cane and Dry Sugar Cane Block
 
 -Wrought Iron Nugget, Ingot, Block
 
@@ -14,13 +14,13 @@ A Minecraft Forge Mod that provides many new blocks in the spirit of the core ga
 
 -Fertilizer and Enriched Soil (Enriched Soil does not require Water, provides a use for bones and rotten flesh)
 
--Beehive (drops from leaves), Honeycomb, Beeswax, Jar of Honey
+REDUNDANT-Beehive (drops from leaves), Honeycomb, Beeswax, Jar of Honey
 
 -Sunflower Seeds, Sunflower Oil
 
 -Tiki Post and Tiki Torch
 
--Colored Candles
+REDUNDANT-Colored Candles
 
 -Colored Lanterns
 
@@ -54,7 +54,7 @@ A Minecraft Forge Mod that provides many new blocks in the spirit of the core ga
 
 -Royal Tile Clay Roofs
 
--Copper Patina Roof (Found only in loot chests)
+REDUNDANT-Copper Patina Roof (Found only in loot chests)
 
 -Roads and Road Slabs (Several designs that offer slight run bonuses depending on the type of road)
 
@@ -70,11 +70,11 @@ A Minecraft Forge Mod that provides many new blocks in the spirit of the core ga
 
 -Paper Walls
 
--Wood Cabinets
+REDUNDANT-Wood Cabinets
 
 -Stone Top Counters and Drawers in all Wood and Stone Variations
 
--Small Crates, Crates, and Barrels (for clutter)
+REDUNDANT-Small Crates, Crates, and Barrels (for clutter)
 
 -Wooden Well Buckets (hang over water, will fill automatically, can be emptied with a bucket)
 
@@ -86,9 +86,9 @@ A Minecraft Forge Mod that provides many new blocks in the spirit of the core ga
 
 -Climbable Rope, Sturdy Rope (all rope down breaks if support block or support rope breaks)
 
--Climable Light and Heavy Iron, Gold And Wrought Iron Chains
+REDUNDANT-Climable Light and Heavy Iron, Gold And Wrought Iron Chains
 
 -Climable Wooden Jacob's Ladders
 
--Wool Slabs
+REDUNDANT-Wool Slabs
 
